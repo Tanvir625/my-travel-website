@@ -17,3 +17,10 @@ footer {
     margin-top:30px;
     text-align: center;
 }
+
+figure > img {
+    height: 500px;
+}
+figcaption {
+    text-align: center;
+}
