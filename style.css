@@ -12,3 +12,8 @@ nav li > a{
 nav {
     text-align: right;
 }
+
+footer {
+    margin-top:30px;
+    text-align: center;
+}
